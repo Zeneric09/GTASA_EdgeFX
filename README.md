@@ -1,6 +1,6 @@
 # EdgeFX - Advanced Edge Detection Plugin for GTA San Andreas
 
-A high-quality post-processing plugin for GTA San Andreas that provides advanced edge detection with dual algorithms (Sobel and Canny). All parameters are normalized for GTA SA's coordinate system (1 unit ≈ 1 meter, world size ~4800x4800 units).
+A high-quality post-processing plugin for GTA San Andreas that provides advanced edge detection with dual algorithms (Sobel and Canny). All parameters are normalized for GTA SA's coordinate system.
 
 ## Features
 
