@@ -24,7 +24,6 @@ A high-quality post-processing plugin for GTA San Andreas that provides advanced
 - **Performance**: Optimized for real-time rendering
 - **Compatibility**: Works with GTA San Andreas Plugin SDK
 - **Configuration**: INI file with comprehensive settings
-- **Coordinate System**: Normalized for GTA SA (1 unit ≈ 1 meter, world size ~4800x4800 units)
 - **Texel Size**: Optimized for game scale (0.0015 normalized)
 
 ## Edge Detection Methods
@@ -38,7 +37,6 @@ A high-quality post-processing plugin for GTA San Andreas that provides advanced
 - **Implementation**: Based on exact Sobel filter tutorial source code
 - **Kernels**: Gx = [[1,0,-1],[2,0,-2],[1,0,-1]], Gy = [[1,2,1],[0,0,0],[-1,-2,-1]]
 - **Grayscale**: Uses exact weights (0.2126, 0.7152, 0.0722) from tutorial
-- **Normalization**: Optimized for GTA SA coordinate system (4800x4800 world units)
 
 ### Canny Method (Advanced)
 - **Speed**: Medium performance impact
